@@ -1,4 +1,4 @@
-const badUsers = [] // string of user ids
+const badUsers = ['141834'] // string of user ids
 
 const checkBadUser = (post) => {
 	let userId = post.getAttribute("data-user-id")
