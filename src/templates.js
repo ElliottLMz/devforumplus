@@ -22,9 +22,9 @@ If you have any other questions let me know. `,
 
 	"!!CALLOUT": `Hello,
 
-Even though it is upsetting that you had a bad expirence with this person, [calling other users out is against the Official Rules of the Roblox Developer Forum.](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/9)
+Even though it is upsetting that you had a bad experience with this person, [calling other users out is against the Official Rules of the Roblox Developer Forum.](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/9)
 
-Calling out others is not allowed publicly, if you need to solve a disupute, please send them a DM. If they are claiming others work as their own, flag the post instead of replying. Failing to do so could result in strikes being issues againt your account.
+Calling out others is not allowed publicly, if you need to solve a dispute, please send them a DM. If they are claiming others work as their own, flag the post instead of replying. Failing to do so could result in strikes being issues against your account.
 
 Feel free to ask me any follow up questions if you have any.`
 }
