@@ -4,8 +4,10 @@ const OP_CLASS_NAME = "-!-has-op-flairs"
 const UF_CLASS_NAME = "-!-has-user-flairs"
 
 const USER_FLAIRS = {
-	1311: "robloxMan",
-	297072: "bruh",
+	1311: "robloxMan", // roblox
+	297072: "bruh", // ??
+	22327: "ourGod", // coef
+
 }
 const POST_FLAIRS = {}
 const TOPIC_FLAIRS = {}
