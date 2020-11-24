@@ -1,6 +1,6 @@
 {
 	"name": "devforumplus",
-	"version": "0.0.5",
+	"version": "0.1.0",
 	"description": "Makes the Roblox DevForum that bit nicer.",
 	"private": true,
 	"scripts": {
