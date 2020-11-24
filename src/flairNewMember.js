@@ -37,7 +37,7 @@ async function handlePost(post) {
 
 async function isNewMember(userId, postId) {
 	if (newMembers.indexOf(userId) != -1) return { amNewMember: true }
-	if (notNewMembers.indexOf(userId) != -1) return { amNewMember: true }
+	if (notNewMembers.indexOf(userId) != -1) return { amNewMember: false }
 
 	const res = await fetch(`https://devforum.roblox.com/posts/${postId}.json`, FETCH_CONFIG)
 
