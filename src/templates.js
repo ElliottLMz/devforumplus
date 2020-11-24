@@ -1,5 +1,5 @@
 const shortcuts = {
-	"!!30": "<the thirty character limit />",
+	"!!30": "<aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa />",
 	"!!SPOON":
 		"While you are helping people on the forum, please stop spoonfeeding them code. You aren’t explaining what any of your code does, and as a result of this the person asking for help isn’t actually learning anything.",
 	"!!ROBLOX": `Hi,
