@@ -1,6 +1,6 @@
 const shortcuts = {
 	"!!DUPE": "Many topics have been made regarding this; in the future please try to search before posting.\n", // the new line is so you can link the search query
-	"!!DUPEFLAG": "Duplicate of: ", // for when you flag; space is for adding search query
+	"!!FLAGDUPE": "Duplicate of: ", // for when you flag; space is for adding search query
 	"!!30": "<aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa />", // Quickly get through the limit.
 	"!!SPOON":
 		"While you are helping people on the forum, please stop spoonfeeding them code. You aren’t explaining what any of your code does, and as a result of this the person asking for help isn’t actually learning anything.",
