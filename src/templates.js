@@ -27,6 +27,12 @@ Even though it is upsetting that you had a bad experience with this person, [cal
 Calling out others is not allowed publicly, if you need to solve a dispute, please send them a DM. If they are claiming others work as their own, flag the post instead of replying. Failing to do so could result in strikes being issues against your account.
 
 Feel free to ask me any follow up questions if you have any.`
+        
+        "!!LUA": `Hi! 
+
+        It looks like you've written "LUA". Lua is not an acronym (or an initialism) - it is the Portuguese word for 'moon'. 
+
+        Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo and Waldemar Celes, members of the Computer Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janeiro, in Brazil.`
 }
 
 function handleTextArea(textarea) {
