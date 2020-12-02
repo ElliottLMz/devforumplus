@@ -32,7 +32,7 @@ Feel free to ask me any follow up questions if you have any.`
 
         It looks like you've written "LUA". Lua is not an acronym (or an initialism) - it is the Portuguese word for 'moon'. 
 
-        Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo and Waldemar Celes, members of the Computer Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janeiro, in Brazil.`
+        Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo and Waldemar Celes, members of the Computer Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janeiro, in Brazil. See here for more info: https://www.lua.org/about.html`
 }
 
 function handleTextArea(textarea) {
