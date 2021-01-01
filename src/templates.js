@@ -15,9 +15,9 @@ Feel free to ask me any further questions you may have about this.`,
 	
 	"!!MOD": `Hey there,
 	
-While it may be frustrating when people don't put topics in the correct categories, please do not reply to the topic, and flag it instead. By replying, you are being a [mini-mod](https://devforum.roblox.com/t/reduce-mini-modding-on-the-devforums/497180).
+While it may be frustrating when people don't put topics in the correct categories, it will get resolved quicker if you just flag it. By replying, you are also at risk of [getting a strike.](https://devforum.roblox.com/t/reduce-mini-modding-on-the-devforums/497180).
 
-Mini-modding is [against the rules](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/55?u=fxllencode), and can lead to a suspension. Please refrain from doing so, as staff can take care of the post if you flag it.
+You should [review the rules](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/55?u=fxllencode), and can lead to a suspension. If you can flag the post instead of replying, you can help the forum clean spam.
 
 If you have any other questions let me know. `,
 
@@ -25,7 +25,7 @@ If you have any other questions let me know. `,
 
 Even though it is upsetting that you had a bad experience with this person, [calling other users out is against the Official Rules of the Roblox Developer Forum.](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/9)
 
-Calling out others is not allowed publicly, if you need to solve a dispute, please send them a DM. If they are claiming others work as their own, flag the post instead of replying. Failing to do so could result in strikes being issues against your account.
+Calling out others is not allowed publicly, if you need to solve a dispute, please send them a DM. If they are claiming others work as their own, you should just flag the post, otherwise strikes could issued against your account.
 
 Feel free to ask me any follow up questions if you have any.`,
         
@@ -33,7 +33,17 @@ Feel free to ask me any follow up questions if you have any.`,
 
 It looks like you've written "LUA". Lua is not an acronym (or an initialism) - it is the Portuguese word for 'moon'. 
 
-Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo and Waldemar Celes, members of the Computer Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janeiro, in Brazil. See here for more info: https://www.lua.org/about.html`
+Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo and Waldemar Celes, members of the Computer Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janeiro, in Brazil. See here for more info: https://www.lua.org/about.html`,
+
+	"!!WRONGTOPIC": `Hello,
+
+It looks like you wrote that you weren't sure what the correct category is for your topic. According to @colbert2677, [You can ask Community Editors if you aren't sure what the correct category is.](https://devforum.roblox.com/t/you-can-ask-community-editors-for-help-picking-a-category-if-you-dont-know-where-your-thread-belongs/830798)
+
+Even though Community Editors are deprecated, you can still DM anybody who has the badge with your question. They can assist you with any further questions you may have. 
+
+I hope this helps!`
+	
+
 }
 
 function handleTextArea(textarea) {
