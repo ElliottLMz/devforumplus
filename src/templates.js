@@ -39,9 +39,9 @@ Fun fact: Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Fig
 
 It looks like you wrote that you weren't sure what the correct category is for your topic. According to @colbert2677, [You can ask Community Editors if you aren't sure what the correct category is.](https://devforum.roblox.com/t/you-can-ask-community-editors-for-help-picking-a-category-if-you-dont-know-where-your-thread-belongs/830798)
 
-Even though Community Editors are deprecated, you can still DM anybody who has the badge with your question. They can assist you with any further questions you may have. 
+While Community Editors may be deprecated, you can still DM anybody who has the badge with your question. They can assist you with any further questions you may have. 
 
-I hope this helps!`
+I hope this helps clear any confusion!`
 	
 
 }
