@@ -1,7 +1,6 @@
 const shortcuts = {
-	"!!DUPE": `Many topics have been made regarding this; in the future please try to search before posting.
-
-`, // the new lines are so you can link the search query
+	"!!DUPE": `Many topics have been made regarding this; in the future please try to search before posting.`, // the new lines are so you can link the search query
+	"!!30": `<aaaaaaaaaaaaaaaaaaa></aaaaaaa>`,
 	"!!SPOON": `While you are helping people on the forum, please try not to give code-only replies. You aren’t explaining what any of your code does, and as a result of this the person asking for help isn’t actually learning anything.`,
 	"!!ROBLOX": `Hi,
 
@@ -17,7 +16,7 @@ Feel free to ask me any further questions you may have about this.`,
 	
 While it may be frustrating when people don't put topics in the correct categories, it will get resolved quicker if you just flag it. By replying, you are also at risk of [getting a strike.](https://devforum.roblox.com/t/reduce-mini-modding-on-the-devforums/497180).
 
-You should [review the rules](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/55?u=fxllencode), and can lead to a suspension. If you can flag the post instead of replying, you can help the forum clean spam.
+You should [review the rules](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/55?u=fxllencode). If you can flag the post instead of replying, you can help the forum clean spam.
 
 If you have any other questions let me know. `,
 
