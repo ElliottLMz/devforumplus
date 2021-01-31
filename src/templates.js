@@ -55,7 +55,7 @@ function handleTextArea(textarea) {
 	textarea.addEventListener("input", () => {
 		textarea.value = textarea.value.replace(/\!\!\S*/, (match) => {
 			// now you don't have to clear the composer to use a shortcut
-			return shortcuts[match] || match
+			return shortcuts[match] + " " || match // avoid !!LUA vs !!LUAU confusion
 		})
 	})
 
