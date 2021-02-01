@@ -1,9 +1,9 @@
 const shortcuts = {
-        "!!CAPSLUAU": `Hey!
+        "!!LUAU": `Hey!
 
 Looks like you wrote "LUAU"! Luau is not an acronym (or an initialism) - it's actually based on the language Luau is derived from, "Lua", which is also the Portuguese word for "moon".
 Fun fact: Despite sharing the same spelling, Luau's naming is not based on the Hawaiian feast of the same name.`,
-	"!!DUPE": `Many topics have been made regarding this; in the future please try to search before posting.`, // the new lines are so you can link the search query
+	"!!DUPE": `Many topics have been made regarding this; in the future please try to search before posting.`,
 	"!!30": `<aaaaaaaaaaaaaaaaaaa></aaaaaaa>`,
 	"!!SPOON": `While you are helping people on the forum, please try not to give code-only replies. You aren’t explaining what any of your code does, and as a result of this the person asking for help isn’t actually learning anything.`,
 	"!!ROBLOX": `Hi,
@@ -22,7 +22,7 @@ While it may be frustrating when people don't put topics in the correct categori
 
 You should [review the rules](https://devforum.roblox.com/t/official-rules-of-the-roblox-developer-forum/46429/55?u=fxllencode). If you can flag the post instead of replying, you can help the forum clean spam.
 
-If you have any other questions let me know. `,
+If you have any other questions let me know.`,
 
 	"!!CALLOUT": `Hello,
 
@@ -53,15 +53,14 @@ function handleTextArea(textarea) {
 	if (textarea.classList.contains("-!--templates-added")) return false
 
 	textarea.addEventListener("input", () => {
-		textarea.value = textarea.value.replace(/\!\!\S* /, (match) => {
-			return shortcuts[match] + " " || match
+		textarea.value = textarea.value.replace(/(\!\!\S*) /, (_, match) => {
+			return (shortcuts[match] || match) + " "
 		})
 	})
 
 	textarea.className += " -!--templates-added"
 }
 
-// d-editor-input
 export default function pmTemplates() {
 	setInterval(() => {
 		for (let message of document.getElementsByClassName("flag-message")) {
