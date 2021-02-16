@@ -44,7 +44,10 @@ It looks like you wrote that you weren't sure what the correct category is for y
 
 While Community Editors may be deprecated, you can still DM anybody who has the badge with your question. They can assist you with any further questions you may have. 
 
-I hope this helps clear any confusion!`
+I hope this helps clear any confusion!`,
+	"!!SIGN": `No need to sign your posts; we can already see your username at the top left of them :slight_smile:
+	
+	` // newline is so you can paste a screenshot of the post showing that signature is unnecessary
 	
 
 }
