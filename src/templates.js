@@ -1,5 +1,5 @@
 const shortcuts = {
-		":AAA:": `<sub><sub><img src="https://cdn.discordapp.com/emojis/626147013070684161.gif?v=1" width=20 height=20 title=":AAA:"></sub></sub>`,
+	":AAA:": `<sub><sub><img src="https://cdn.discordapp.com/emojis/626147013070684161.gif?v=1" width=20 height=20 title=":AAA:"></sub></sub>`,
         "!!LUAU": `Hey!
 
 Looks like you wrote "LUAU"! Luau is not an acronym (or an initialism) - it's actually based on the language Luau is derived from, "Lua", which is also the Portuguese word for "moon".
