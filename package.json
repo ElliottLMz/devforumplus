@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/elliottlmz/devforumplus.git"
+		"url": "git+https://github.com/dfmeta/devforumplus.git"
 	},
-	"author": "Elliott Mozley (emozley.uk)",
+	"author": "Eleanor Mozley (emozley.uk)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/elliottlmz/devforumplus/issues"
+		"url": "https://github.com/dfmeta/devforumplus/issues"
 	},
-	"homepage": "https://github.com/elliottlmz/devforumplus#readme",
+	"homepage": "https://github.com/dfmeta/devforumplus#readme",
 	"devDependencies": {
 		"webpack": "^4.44.1",
 		"webpack-cli": "^3.3.12"
